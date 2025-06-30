@@ -6,8 +6,8 @@ An advanced full-stack E-commerce website built with **React**, **Node.js**, and
 
 ## 🔗 Live Demo
 
-👉 [Visit the Website](https://your-frontend-url.com)  
-👉 [Backend API](https://eccommerce-app-backend.onrender.com)
+👉 [Visit the Website](https://ecommerce-website-rahul-saini.netlify.app/)  
+
 
 ---
 

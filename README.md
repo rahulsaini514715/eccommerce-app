@@ -1,7 +1,3 @@
-# eccommerce-app
-This e-commerce website is a full-stack web application that enables users to register, browse categorized products, manage a shopping cart, and securely make payments using Razorpay. It features authentication, responsive UI, and admin dashboard capabilities for product and order management
-
-
 # 🛒 E-Commerce Website
 
 An advanced full-stack E-commerce website built with **React**, **Node.js**, and **MongoDB**, featuring dynamic product listings, category filters, cart management, user authentication, admin dashboard, and Razorpay payment gateway.
